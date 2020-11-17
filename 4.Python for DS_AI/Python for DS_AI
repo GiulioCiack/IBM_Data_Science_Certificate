@@ -1,0 +1,8 @@
+'Python for Data science & AI
+
+- Python is an "interpreted language". Compiled languages examine your entire program at compile time, and are able to warn you 
+	about a whole class of errors prior to execution. In contrast, Python interprets your script line by line as it executes it. 
+	Python will stop executing the entire program when it encounters an error, unless the error is expected and handled by the programmer.
+	So Python will stop interpreting ASA it finds an error, but before it, it will produce the output.
+
+- Python is an object-oriented language.
